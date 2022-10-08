@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	char s1[100]="life",s2[]="is beautiful";
+	char s1[100]="hello",s2[]="world";
 	int length,j;
 	length=0;
 	while(s1[length] !='\0')
